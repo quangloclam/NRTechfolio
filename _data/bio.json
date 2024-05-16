@@ -1,4 +1,4 @@
-{
+m{
   "basics": {
     "name": "Quang Loc Lam",
     "label": "NRT Trainee",
@@ -6,7 +6,7 @@
     "email": "qllam@hawaii.edu",
     "phone": "330-990-1780",
     "website": "https://quangloclam.github.io",
-    "summary": "I am an NRT DESCARTS trainee studying for a PhD program in Information Technology Management at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am an NRT DESCARTS trainee studying for a PhD program in Information Technology Management at the University of Hawaii. I expect to graduate in December 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
